@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\medium.test\Financier\Financier.csproj" />
+    <ProjectReference Include="..\Financier\Financier.csproj" />
   </ItemGroup>
 
 </Project>
